@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #010101;
+        font-family: PalatinoLinotype-Roman, 'Palatino Linotype';
+        font-size: 22.59px;
+      }
+
+      .cls-2 {
+        fill: #eb8755;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #3a2b2e;
+      }
+
+      .cls-4 {
+        fill: #e97650;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" width="64" height="64"/>
+  <rect class="cls-4" x="14.03" y="7.72" width="36.63" height="48.57"/>
+  <rect class="cls-2" x="14.03" y="7.72" width="21.11" height="48.57"/>
+  <text class="cls-1" transform="translate(17.51 26.23)"><tspan x="0" y="0">BL</tspan><tspan x="0" y="27.11">DE</tspan></text>
+</svg>

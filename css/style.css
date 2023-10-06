@@ -1,0 +1,54 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+body{
+ text-align: center;
+ /*background-image: linear-gradient(to bottom right, red,orange,yellow,green,blue,indigo,violet);*/
+ background-image: url(../img/Pixel_DOG.png);
+}
+
+#Title{
+ font-family: Comic Sans Ms;
+}
+
+#UnderTitle{
+  color: aliceblue;
+  position: flex;
+  text-align: center;
+
+}
+
+#gnome_dance{
+  background-color: yellowgreen;
+}
+
+#Copyright{
+  color: aliceblue;
+  background-color: black;
+}
+
+#flash-container{
+  padding-top: 35px;
+}
