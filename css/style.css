@@ -52,3 +52,12 @@ body{
 #flash-container{
   padding-top: 35px;
 }
+
+.reddit{
+  color: white;
+  background-color: rgb(180, 179, 179);
+}
+
+a.reddit{
+  color: white;
+}
